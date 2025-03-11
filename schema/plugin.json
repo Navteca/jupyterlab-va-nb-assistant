@@ -1,0 +1,8 @@
+{
+  "jupyter.lab.shortcuts": [],
+  "title": "jupyterlab-va-nb-assistant",
+  "description": "jupyterlab-va-nb-assistant settings.",
+  "type": "object",
+  "properties": {},
+  "additionalProperties": false
+}
