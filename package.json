@@ -7,9 +7,9 @@
         "jupyterlab",
         "jupyterlab-extension"
     ],
-    "homepage": "https://git remote add origin https://github.com/Navteca/jupyterlab-va-nb-assistant-jl4",
+    "homepage": "https://git remote add origin https://github.com/Navteca/jupyterlab-va-nb-assistant",
     "bugs": {
-        "url": "https://git remote add origin https://github.com/Navteca/jupyterlab-va-nb-assistant-jl4/issues"
+        "url": "https://git remote add origin https://github.com/Navteca/jupyterlab-va-nb-assistant/issues"
     },
     "license": "BSD-3-Clause",
     "author": {
@@ -27,7 +27,7 @@
     "style": "style/index.css",
     "repository": {
         "type": "git",
-        "url": "https://git remote add origin https://github.com/Navteca/jupyterlab-va-nb-assistant-jl4.git"
+        "url": "https://git remote add origin https://github.com/Navteca/jupyterlab-va-nb-assistant.git"
     },
     "scripts": {
         "build": "jlpm build:lib && jlpm build:labextension:dev",

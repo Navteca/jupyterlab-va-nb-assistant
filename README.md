@@ -1,6 +1,6 @@
 # jupyterlab_va_nb_assistant
 
-[![Github Actions Status](https://git remote add origin https://github.com/Navteca/jupyterlab-va-nb-assistant-jl4/workflows/Build/badge.svg)](https://git remote add origin https://github.com/Navteca/jupyterlab-va-nb-assistant-jl4/actions/workflows/build.yml)
+[![Github Actions Status](https://git remote add origin https://github.com/Navteca/jupyterlab-va-nb-assistant/workflows/Build/badge.svg)](https://git remote add origin https://github.com/Navteca/jupyterlab-va-nb-assistant/actions/workflows/build.yml)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Navteca/jupyterlab-va-nb-assistant/main?urlpath=lab)
 
 
