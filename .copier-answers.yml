@@ -9,6 +9,6 @@ kind: server
 labextension_name: jupyterlab-va-nb-assistant
 project_short_description: A JupyterLab extension.
 python_name: jupyterlab_va_nb_assistant
-repository: https://github.com/Navteca/jupyterlab-va-nb-assistant
+repository: https://git remote add origin https://github.com/Navteca/jupyterlab-va-nb-assistant-jl4
 test: true
 
