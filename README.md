@@ -1,6 +1,6 @@
 # jupyterlab_va_nb_assistant
 
-[![Github Actions Status](https://github.com/Navteca/jupyterlab-va-nb-assistant-jl3/workflows/Build/badge.svg)](https://github.com/Navteca/jupyterlab-va-nb-assistant-jl3/actions/workflows/build.yml)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Navteca/jupyterlab-voice-atlas/main?urlpath=lab)
+[![Github Actions Status](https://github.com/Navteca/jupyterlab-va-nb-assistant/workflows/Build/badge.svg)](https://github.com/Navteca/jupyterlab-va-nb-assistant/actions/workflows/build.yml)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Navteca/jupyterlab-voice-atlas/main?urlpath=lab)
 A JupyterLab extension.
 
 This extension is composed of a Python package named `jupyterlab_va_nb_assistant`
