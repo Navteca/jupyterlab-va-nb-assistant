@@ -11,4 +11,4 @@ RUN apt-get update \
   && apt-get -y autoremove
 
 RUN pip install --upgrade jupyterlab==4.3.5 
-RUN pip install jupyterlab-va-nb-assistant>=0.2.0,,<0.3.0
+RUN pip install jupyterlab-va-nb-assistant>=0.2.0,<0.3.0
